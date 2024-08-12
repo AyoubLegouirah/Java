@@ -1,0 +1,21 @@
+De l'oop c'est quoi ?
+
+Elle contient l'encapsulation, l'héritage, le polymorphisme.
+
+Heritage :
+La classe abstraction est une maniere de generaliser donc est forcement un parents
+
+
+class Public : accés à tout le monde
+class Private : pas accessible
+
+Ce sont des accesseurs :
+getters : accés a un atributs
+setters : modification d'un atributs
+
+
+La génericité
+
+
+
+

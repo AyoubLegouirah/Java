@@ -1,0 +1,30 @@
+// BOUCLE FOR, BOUCLE WHILE, BOUCLE DO..WHILE
+
+Boucle for vs while vs do...while :
+Utilise la boucle for lorsque le nombre d'itérations est connu à l'avance.
+Utilise la boucle while lorsque le nombre d'itérations n'est pas connu et dépend d'une condition.
+Utilise la boucle do...while lorsque tu veux que le bloc de code s'exécute au moins une fois.
+
+
+Initialisation et Incrémentation :
+Fais attention à l'initialisation et à l'incrémentation/décrémentation dans les boucles for et while.
+Une mauvaise manipulation peut conduire à des résultats inattendus.
+
+
+// BOUCLE FOR EACH
+La boucle for-each en Java est utilisée pour itérer à travers les éléments d'une collection (comme un Set ou un tableau)
+de manière simplifiée et lisible. C'est particulièrement utile pour éviter les erreurs liées aux indices
+et aux itérations manuelles.
+
+Derrière la boucle for-each, Java utilise des itérateurs pour parcourir les éléments de la collection.
+Utilisation appropriée de la boucle for-each
+
+Utilise la boucle for-each lorsque tu n'as pas besoin de connaître l'indice des éléments que tu parcours.
+Préférence pour les collections avec itérateurs
+
+Préfère la boucle for-each et les itérateurs pour parcourir les collections (comme les listes et les ensembles)
+car ils sont plus sûrs et plus lisibles que les boucles for traditionnelles.
+
+
+
+
